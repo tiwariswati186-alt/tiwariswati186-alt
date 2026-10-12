@@ -88,7 +88,7 @@ I enjoy transforming complex datasets into actionable insights and solving real-
 **Bachelor of Computer Applications (BCA)**  
 Purvanchal University
 
-**Master Diploma in Data Science & Artificial Intelligence**  
+**PG Diploma in Data Science & Artificial Intelligence**  
 Boston Institute of Analytics
 
 ---
