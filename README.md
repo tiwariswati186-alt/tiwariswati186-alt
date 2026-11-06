@@ -41,7 +41,7 @@ I turn data into decisions. I have 6+ years of experience in operations, includi
 ## 💼 Background
 
 - **Data Scientist Apprentice**, Spinnaker Analytics (Remote), Jun 2026 – Present
-- **Team Leader – Operations**, Hansa Direct / Quess Corp / Digitide Solutions, Jun 2022 – Nov 2025: MIS reports, CRM analysis, SLA and conversion tracking for a team of up to 15
+- **Team Leader – Operations**, Hansa Direct / Conneqt Business Solutions / Digitide Solutions, Jun 2022 – Nov 2025: MIS reports, CRM analysis, SLA and conversion tracking for a team of up to 15
 - **Education:** Master Diploma in Data Science & AI (Boston Institute of Analytics); BCA (Purvanchal University, Jaunpur)
 
 ## 🎯 What I'm working on
