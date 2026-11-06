@@ -1,6 +1,6 @@
 # Hi, I'm Swati Tiwari 👋
 
-**Entry-level Data Scientist | Data Analyst | Greater Noida, India**
+**Entry-level Data Scientist | Data Analyst | Noida, India**
 
 I turn data into decisions. I have 6+ years of experience in operations, including 3+ years leading a team and building MIS and CRM reports. I then completed a **Master Diploma in Data Science & AI** (Boston Institute of Analytics) and now work as a **Data Scientist Apprentice**. I build machine learning models, deploy them as live apps and APIs, and explain the results in simple business language.
 
