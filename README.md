@@ -42,7 +42,7 @@ I bridge the gap between complex machine learning workflows and core business ex
   * Execute data ingestion, exploratory analysis (EDA), target missing-value strategies, and model serialization pipelines.
 * **Team Leader – Operations** | Hansa Direct / Conneqt / Digitide Solutions | *Jun 2022 – Nov 2025*
   * Supervised conversion and cost-per-lead optimization metrics for a team of 15 using data driven CRM tracking.
-* **Academic Baseline:** Master Diploma in Data Science & AI (Boston Institute of Analytics) \| Bachelor of Computer Applications (BCA)
+* **Academic Baseline:** PG Diploma in Data Science & AI (Boston Institute of Analytics) \| Bachelor of Computer Applications (BCA)
 
 ---
 
