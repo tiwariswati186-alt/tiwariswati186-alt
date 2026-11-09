@@ -1,5 +1,5 @@
 # Hi, I'm Swati Tiwari 👋
-**Entry-Level Data Scientist | Data Analyst | Noida, India**
+**Data Scientist | Data Analyst | Noida, India**
 
 I bridge the gap between complex machine learning workflows and core business execution. Backed by **6+ years of operational experience (including 3+ years leading analytical teams)**, I focus on building high-performance predictive models, deploying them into live production environments, and translating numbers into actionable strategic rules.
 
