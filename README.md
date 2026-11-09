@@ -4,7 +4,7 @@
 I bridge the gap between complex machine learning workflows and core business execution. Backed by **6+ years of operational experience (including 3+ years leading analytical teams)**, I focus on building high-performance predictive models, deploying them into live production environments, and translating numbers into actionable strategic rules.
 
 📫 **Let's Connect:** [tiwariswati186@gmail.com](mailto:tiwariswati186@gmail.com) | [LinkedIn](https://www.linkedin.com/in/swati-tiwari-37972317a)  
-🔎 **Actively Seeking:** Full-Time Entry-Level Data Scientist & Data Analyst Roles
+🔎 **Actively Seeking:** Full-Time Data Scientist & Data Analyst Roles
 
 ---
 
