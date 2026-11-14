@@ -13,7 +13,7 @@ I bridge the gap between complex machine learning workflows and core business ex
 | Project | Core Capabilities & Architecture | Tech Stack | Interactive Artifacts |
 | :--- | :--- | :--- | :--- |
 | **Employee Attrition Prediction API** | Classifies job-change risks across 19,158 records. Mitigated severe data imbalance using SMOTE exclusively inside cross-validation splits. **(79.4% Acc, 0.812 ROC-AUC, 69% Recall)** | FastAPI, LightGBM, SMOTE, Render, Uvicorn | [Source Code](https://github.com/tiwariswati186-alt/employee-retention-api) · [Live Swagger API](https://employee-retention-api.onrender.com/docs) |
-| **Solar PV Annual Energy Estimation** | Built an end-to-end regression engine on 133,535 rows of data. Developed feature pipelines tracking complex DC-to-AC capacity metrics. **(0.9998 Test R²)** | Scikit-Learn, Streamlit, Power BI, Pandas | [Source Code](https://github.com/tiwariswati186-alt/solar-energy-production-forecasting) · [Live Streamlit App](https://solar-energy-appuction-forecasting-gscfrapb8rdgbxgr2okzar.streamlit.app/) |
+| **Solar PV Annual Energy Estimation** | Built an end-to-end regression engine on 133,535 rows of data. Developed feature pipelines tracking complex DC-to-AC capacity metrics. **(0.9998 Test R²)** | Scikit-Learn, Streamlit, Power BI, Pandas | [Source Code](https://github.com/tiwariswati186-alt/solar-energy-production-forecasting) · [Live Streamlit App](https://swati-solar-energy-forecasting.streamlit.app/) |
 
 ## 📊 Analytics & Advanced Modeling Portfolio
 
